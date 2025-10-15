@@ -27,9 +27,12 @@ cd ros2-humble-installation
 
 
 # Make this file executable
-### chmod +x installation.sh
-
+```bash
+chmod +x installation.sh
+```
 
 # Run the Installation file script
 
-### ./installation.sh
+```bash
+ ./installation.sh
+```
