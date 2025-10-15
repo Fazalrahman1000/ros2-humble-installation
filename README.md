@@ -11,8 +11,8 @@ Before starting, ensure you have:
 - Ubuntu 22.04 installed  
 - Internet connection  
 - Terminal access  
-- `sudo` privileges  
-
+- `sudo` privileges
+  [For ubuntu and related packages and tools installation guidence see](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
 ---
 
 ## ⚙️ Step 0: Download the Installation Script
