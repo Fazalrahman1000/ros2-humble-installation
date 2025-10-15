@@ -34,5 +34,22 @@ chmod +x installation.sh
 # Run the Installation file script
 
 ```bash
- ./installation.sh
+./installation.sh
+
 ```
+# Uninstall ROS2
+#### If you need to uninstall ROS 2 or switch to a source-based install once you have already installed from binaries, run the following command:
+```bash
+sudo apt remove ~nros-humble-* && sudo apt autoremove
+```
+#### You may also want to remove the repository:
+
+```bash
+sudo apt remove ros2-apt-source
+sudo apt update
+sudo apt autoremove
+sudo apt upgrade # Consider upgrading for packages previously shadowed.
+```
+
+
+# Thank You
