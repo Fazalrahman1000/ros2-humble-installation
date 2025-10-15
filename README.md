@@ -52,4 +52,7 @@ sudo apt upgrade # Consider upgrading for packages previously shadowed.
 ```
 
 
+### For more deep guidence
+(https://docs.ros.org/en/humble/)
+
 # Thank You
