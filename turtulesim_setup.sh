@@ -41,3 +41,4 @@ exec bash
 
 echo "✅ Both nodes launched in separate terminals!"
 
+# Test comment
