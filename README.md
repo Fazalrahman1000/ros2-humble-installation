@@ -52,6 +52,12 @@ sudo apt autoremove
 sudo apt upgrade # Consider upgrading for packages previously shadowed.
 ```
 
+# Installation of turtlesim from single file
+
+- after clone the repository, you will the see the turtulesim_setup.sh file in your local machine.
+- make it executable with ```bash  chmod +x turtulesim_setup.sh  ``` and run it.
+- this must be after installing ros2.
+
 
 ### For more deep guidence
 (https://docs.ros.org/en/humble/)
